@@ -1,4 +1,4 @@
-Version Format Major.Minor.Patch
+Version Format Major.Minor.Patch (0.0.1)
 
 *Will not Create Automatically Commit
 #-------Increment Patch Version
